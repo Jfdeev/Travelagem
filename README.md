@@ -30,5 +30,3 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Se tiver dúvidas ou sugestões, fique à vontade para abrir uma *issue* neste repositório! 🚀
 ```
-
-Agora o `README.md` está sem o exemplo de código, mantendo o foco na descrição do projeto, instruções de uso e contribuição. Você pode colocar esse arquivo diretamente no seu repositório GitHub!
